@@ -62,6 +62,11 @@ Let's see what I build with it.
 
 ---
 
+got scammed
+
+
+
+
 ## The Point of This Repo
 
 This isn't meant to be a perfectly organized development log.
