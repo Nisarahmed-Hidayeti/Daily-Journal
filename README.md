@@ -62,9 +62,13 @@ Let's see what I build with it.
 
 ---
 
-got scammed
+### 2026/17/8 
 
+Got scammed 🥀🥀
 
+### 2026/18/8 -Tails  
+
+Finally i've set up tails to my usb
 
 
 ## The Point of This Repo
