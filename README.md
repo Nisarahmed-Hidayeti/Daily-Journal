@@ -70,6 +70,11 @@ Got scammed 🥀🥀
 
 Finally i've set up tails to my usb
 
+### 2026/19/8 - Cyber security 
+
+l ve learned a lot about privacy in internet 
+ive set up tor and learned how to actually use one
+
 
 ## The Point of This Repo
 
