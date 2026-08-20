@@ -79,6 +79,8 @@ ive set up tor and learned how to actually use one
 
 Today i built most of my personal website i think its gonna be ready by tomorrow lets 
 
+Also i've fully set up the tails ubs as well and i wrote a whole readme.md about the experience and how to set up. 
+
 ## The Point of This Repo
 
 This isn't meant to be a perfectly organized development log.
