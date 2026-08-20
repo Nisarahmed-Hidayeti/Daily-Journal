@@ -72,14 +72,16 @@ Finally i've set up tails to my usb
 
 ### 2026/19/8 - Cyber security 
 
-l ve learned a lot about privacy in internet 
-ive set up tor and learned how to actually use one
+i've learned a lot about privacy in internet 
+i've set up tor and learned how to actually use one
 
 ### 2026/19/8 - personal website
 
 Today i built most of my personal website i think its gonna be ready by tomorrow lets 
 
 Also i've fully set up the tails ubs as well and i wrote a whole readme.md about the experience and how to set up. 
+
+(https://github.com/Nisarahmed-Hidayeti/portable-tails-usb)
 
 ## The Point of This Repo
 
