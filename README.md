@@ -75,6 +75,10 @@ Finally i've set up tails to my usb
 l ve learned a lot about privacy in internet 
 ive set up tor and learned how to actually use one
 
+### 2026/19/8 - personal website
+
+Today i builted most of my perdonal website i think its gon be ready by tomorrow lets see
+
 
 ## The Point of This Repo
 
