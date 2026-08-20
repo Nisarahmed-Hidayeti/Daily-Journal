@@ -77,8 +77,7 @@ ive set up tor and learned how to actually use one
 
 ### 2026/19/8 - personal website
 
-Today i builted most of my perdonal website i think its gon be ready by tomorrow lets see
-
+Today i built most of my personal website i think its gonna be ready by tomorrow lets 
 
 ## The Point of This Repo
 
