@@ -101,6 +101,11 @@ i wanna make a virtual pet that have some kind of memory
 
 ---
 
+### 2026/22/8 - Beta version of Virtual pet 
+
+ive made the first impression of the virtual pet ive set up the Hardware
+
+---
 
 ## The Point of This Repo
 
