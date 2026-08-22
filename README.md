@@ -95,7 +95,9 @@ i've fully set up the tails ubs as well and i wrote a whole readme.md about the 
 
 ---
 
-### 2026/21/8 - started to a new project 
+### 2026/21/8 - started to a new project * Virtual Pet
+
+i wanna make a virtual pet that have some kind of memory
 
 ---
 
