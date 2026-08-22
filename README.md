@@ -95,11 +95,12 @@ i've fully set up the tails ubs as well and i wrote a whole readme.md about the 
 
 ---
 
-### 2026/21/8 - started to a new project * Virtual Pet
+### 2026/21/8 - started to a new project * Virtual Pet (https://github.com/Nisarahmed-Hidayeti/Virtual-Pet)
 
 i wanna make a virtual pet that have some kind of memory
 
 ---
+
 
 ## The Point of This Repo
 
