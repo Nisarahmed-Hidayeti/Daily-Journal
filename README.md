@@ -40,7 +40,7 @@ Probably.
 
 ---
 
-### 2026/15/8 — 📚 Study Day
+### 2026/15/8 — Study Day
 
 Didn't really do much today.
 
@@ -50,7 +50,7 @@ Not every day has to be productive, I guess.
 
 ---
 
-### 2026/16/9 — 🤖 Claude Code
+### 2026/16/9 — Claude Code
 
 Today I finally set up **Claude Code**.
 
@@ -66,18 +66,26 @@ Let's see what I build with it.
 
 Got scammed 🥀🥀
 
+---
+
 ### 2026/18/8 -Tails  
 
 Finally i've set up tails to my usb
+
+---
 
 ### 2026/19/8 - Cyber security 
 
 i've learned a lot about privacy in internet 
 i've set up tor and learned how to actually use one
 
+---
+
 ### 2026/19/8 - personal website
 
 Today i built most of my personal website i think its gonna be ready by tomorrow lets 
+
+---
 
 ### 2026/20/8 - Tails -done
 
@@ -85,8 +93,11 @@ i've fully set up the tails ubs as well and i wrote a whole readme.md about the 
 
 (https://github.com/Nisarahmed-Hidayeti/portable-tails-usb)
 
+---
+
 ### 2026/21/8 - started to a new project 
 
+---
 
 ## The Point of This Repo
 
