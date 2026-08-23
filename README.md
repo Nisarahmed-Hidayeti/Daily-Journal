@@ -107,6 +107,12 @@ ive made the first impression of the virtual pet ive set up the Hardware
 
 ---
 
+### 2026/23/8
+
+today tried parrot os
+
+---
+
 ## The Point of This Repo
 
 This isn't meant to be a perfectly organized development log.
