@@ -107,11 +107,15 @@ ive made the first impression of the virtual pet ive set up the Hardware
 
 ---
 
-### 2026/23/8
+### 2026/23/8 -parrot os
 
 today tried parrot os
 
 ---
+
+### 2026/24/8 - cyber deck
+
+i wanna make an postble cyberdeck
 
 ## The Point of This Repo
 
