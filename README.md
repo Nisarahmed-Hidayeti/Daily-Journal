@@ -115,7 +115,7 @@ today tried parrot os
 
 ### 2026/24/8 - cyber deck
 
-i wanna make an postble cyberdeck
+i wanna make an portable cyber-deck
 
 ## The Point of This Repo
 
