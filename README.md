@@ -122,7 +122,7 @@ i wanna make an portable cyber-deck
 ive collected thr all parts for the virtual pet
 
 
-### 2026/24/8 - cyber deck update
+### 2026/26/8 - cyber deck update
 
 
 ## The Point of This Repo
