@@ -117,6 +117,14 @@ today tried parrot os
 
 i wanna make an portable cyber-deck
 
+### 2026/24/8 - virtual pet set up
+
+ive collected thr all parts for the virtual pet
+
+
+### 2026/24/8 - cyber deck update
+
+
 ## The Point of This Repo
 
 This isn't meant to be a perfectly organized development log.
