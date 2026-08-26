@@ -117,13 +117,14 @@ today tried parrot os
 
 i wanna make an portable cyber-deck
 
-### 2026/24/8 - virtual pet set up
+### 2026/25/8 - virtual pet set up
 
 ive collected thr all parts for the virtual pet
 
 
 ### 2026/26/8 - cyber deck update
 
+lve completely decided to go with polomarket os + kde plazma desktop
 
 ## The Point of This Repo
 
