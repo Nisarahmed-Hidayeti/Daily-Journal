@@ -133,6 +133,9 @@ lve completely decided to go with polomarket os + kde plazma desktop
 
 ### 2026/26/8 - cyber deck update
 looks like cyber deck gonna be a lil harder than i tought
+i am gonna continue tomorrrow i guess cz when i try to unlock my mi note 9S phone it get stuck somehow doesnt open 
+
+anyways ive started to work on virtual pet too
 
 
 ## The Point of This Repo
