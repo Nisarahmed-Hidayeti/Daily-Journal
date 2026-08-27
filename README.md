@@ -131,6 +131,10 @@ lve completely decided to go with polomarket os + kde plazma desktop
 
 ---
 
+### 2026/26/8 - cyber deck update
+looks like cyber deck gonna be a lil harder than i tought
+
+
 ## The Point of This Repo
 
 This isn't meant to be a perfectly organized development log.
