@@ -137,11 +137,24 @@ i am gonna continue tomorrow i guess cz when i try to unlock my mi note 9S phone
 
 anyway ive started to work on virtual pet too
 
+---
+
 ### 2026/28/8 - cyber deck a little break (will be back after one week)
 
 Well Xiaomi said I need to wait 6days before unlocking mi 9S phone ts crazy tho
 
 anyways other than that I didn't do much today I was playin game whole day (marvel spider-man is a master piece)
+
+---
+
+### 2026/29/8
+
+Today i ve studied math for sat 
+ive try some coding in virtual pet
+ive played games 
+ive got a gym membership 
+i did some testing in btcar but it didn't worked yet
+today was a good day
 
 ## The Point of This Repo
 
