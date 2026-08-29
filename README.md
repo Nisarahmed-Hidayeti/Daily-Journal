@@ -154,6 +154,9 @@ ive try some coding in virtual pet
 ive played games 
 ive got a gym membership 
 i did some testing in btcar but it didn't worked yet
+
+but i am going to fix it eventually!
+
 today was a good day
 
 ## The Point of This Repo
