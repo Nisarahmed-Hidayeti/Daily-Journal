@@ -159,6 +159,12 @@ but i am going to fix it eventually!
 
 today was a good day
 
+### 2026/29/8 
+
+was a break day i was exhausted
+
+
+
 ## The Point of This Repo
 
 This isn't meant to be a perfectly organized development log.
