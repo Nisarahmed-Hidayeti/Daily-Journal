@@ -163,6 +163,9 @@ today was a good day
 
 was a break day i was exhausted
 
+### 2026/31/8
+
+Tried to make an home server
 
 
 ## The Point of This Repo
