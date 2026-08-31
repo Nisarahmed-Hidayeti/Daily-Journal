@@ -159,7 +159,7 @@ but i am going to fix it eventually!
 
 today was a good day
 
-### 2026/29/8 
+### 2026/30/8 
 
 was a break day i was exhausted
 
