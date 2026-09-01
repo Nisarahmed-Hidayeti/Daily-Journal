@@ -173,6 +173,12 @@ Tried to make an home server it is confusing i will take a better look tomorrow
 
 ---
 
+### 2026/01/9
+
+Today i made my personal Website by myself it took a Little long cz i am no longer using ai in my projects
+
+and ive published some of my old website projects
+
 ## The Point of This Repo
 
 This isn't meant to be a perfectly organized development log.
