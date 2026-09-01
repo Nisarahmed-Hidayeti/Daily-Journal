@@ -167,7 +167,7 @@ was a break day i was exhausted
 
 ---
 
-### 2026/31/8
+### 2026/31/8 - Important changes about my projects 
 
 Tried to make an home server it is confusing i will take a better look tomorrow
 
