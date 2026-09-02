@@ -179,6 +179,9 @@ Today i made my personal Website by myself it took a Little long cz i am no long
 
 and ive published some of my old website projects
 
+### 2026/02/9
+today l studied SAT and decided to start youtube
+
 ## The Point of This Repo
 
 This isn't meant to be a perfectly organized development log.
