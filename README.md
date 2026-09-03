@@ -19,7 +19,7 @@ It was an Arduino. Now it isn't.
 
 ### 2026/14/8 — BT Car & The 9V Battery Incident
 
-I was trying to fix my **BT Car**, even though it wasn't actually broken.
+  - I was trying to fix my **BT Car**, even though it wasn't actually broken.
 
 The main problem was that it was absolutely **destroying my 9V batteries**, and I only had two left.
 
@@ -44,19 +44,19 @@ Probably.
 
 Didn't really do much today.
 
-I've been pretty busy studying for the **SAT and IELTS**, so I didn't get much time to work on projects or commit anything.
+  - I've been pretty busy studying for the **SAT and IELTS**, so I didn't get much time to work on projects or commit anything.
 
-Not every day has to be productive, I guess.
+Not every day has to be productive, I guess...
 
 ---
 
 ### 2026/16/9 — Claude Code
 
-Today I finally set up **Claude Code**.
+  - Today I finally set up **Claude Code**.
 
-Huge thanks to [Ali Khokhar / Alishahryar1](https://github.com/Alishahryar1/free-claude-code) for the setup that lets me use it for free.
+*** Huge thanks to [Ali Khokhar / Alishahryar1](https://github.com/Alishahryar1/free-claude-code) for the setup that lets me use it for free.
 
-Now I can actually mess around with Claude Code without worrying about the cost.
+  - Now I can actually mess around with Claude Code without worrying about the cost.
 
 Let's see what I build with it.
 
@@ -70,26 +70,26 @@ Got scammed 🥀🥀
 
 ### 2026/18/8 -Tails  
 
-Finally i've set up tails to my usb
+  - Finally i've set up tails to my usb
 
 ---
 
 ### 2026/19/8 - Cyber security 
 
-i've learned a lot about privacy in internet 
-i've set up tor and learned how to actually use one
+  - i've learned a lot about privacy in internet 
+  - i've set up tor and learned how to actually use one
 
 ---
 
 ### 2026/19/8 - personal website
 
-Today i built most of my personal website i think its gonna be ready by tomorrow lets 
+  - Today i built most of my personal website i think its gonna be ready by tomorrow lets 
 
 ---
 
 ### 2026/20/8 - Tails -done
 
-i've fully set up the tails ubs as well and i wrote a whole readme.md about the experience and how to set up. 
+  - i've fully set up the tails ubs as well and i wrote a whole readme.md about the experience and how to set up. 
 
 (https://github.com/Nisarahmed-Hidayeti/portable-tails-usb)
 
@@ -97,65 +97,64 @@ i've fully set up the tails ubs as well and i wrote a whole readme.md about the 
 
 ### 2026/21/8 - started to a new project * Virtual Pet (https://github.com/Nisarahmed-Hidayeti/Virtual-Pet)
 
-i wanna make a virtual pet that have some kind of memory
+  - i wanna make a virtual pet that have some kind of memory
 
 ---
 
 ### 2026/22/8 - Beta version of Virtual pet 
 
-ive made the first impression of the virtual pet ive set up the Hardware
+  - ive made the first impression of the virtual pet ive set up the Hardware
 
 ---
 
 ### 2026/23/8 -parrot os
 
-today tried parrot os
+  - today tried parrot os
 
 ---
 
 ### 2026/24/8 - cyber deck
 
-i wanna make an portable cyber-deck
+  - i wanna make an portable cyber-deck
 
 ---
 
 ### 2026/25/8 - virtual pet set up
 
-ive collected thr all parts for the virtual pet
+  - ive collected thr all parts for the virtual pet
 
 ---
 
 ### 2026/26/8 - cyber deck day 2
 
-i ve completely decided to go with polomarket os + kde plazma desktop
+  - i ve completely decided to go with polomarket os + kde plazma desktop
 
 ---
 
 ### 2026/27/8 - cyber deck day 3 
-looks like cyber deck gonna be a litle harder than i thought
+
+  - looks like cyber deck gonna be a litle harder than i thought
 i am gonna continue tomorrow i guess cz when i try to unlock my mi note 9S phone it get stuck somehow doesnt open 
 
-anyway ive started to work on virtual pet too
+  - anyway ive started to work on virtual pet too
 
 ---
 
 ### 2026/28/8 - cyber deck a little break (will be back after one week)
 
-Well Xiaomi said I need to wait 6days before unlocking mi 9S phone ts crazy tho
+  - Well Xiaomi said I need to wait 6days before unlocking mi 9S phone ts crazy tho
 
-anyways other than that I didn't do much today I was playin game whole day (marvel spider-man is a master piece)
+  - anyways other than that I didn't do much today I was playin game whole day (marvel spider-man is a master piece)
 
 ---
 
 ### 2026/29/8
 
-Today i ve studied math for sat 
-ive try some coding in virtual pet
-ive played games 
-ive got a gym membership 
-i did some testing in btcar but it didn't worked yet
-
-but i am going to fix it eventually!
+  - Today i ve studied math for sat 
+  - ive try some coding in virtual pet
+  - ive played games 
+  - ive got a gym membership 
+  - i did some testing in btcar but it didn't worked yet but i am going to fix it eventually!
 
 today was a good day
 
@@ -163,21 +162,21 @@ today was a good day
 
 ### 2026/30/8 
 
-was a break day i was exhausted
+  - today was a break day i was exhausted
 
 ---
 
 ### 2026/31/8 - Important changes about my projects 
 
-Tried to make an home server it is confusing i will take a better look tomorrow
+  - Tried to make an home server it is confusing i will take a better look tomorrow
 
 ---
 
 ### 2026/01/9
 
-Today i made my personal Website by myself it took a Little long cz i am no longer using ai in my projects
+  - Today i made my personal Website by myself it took a Little long cz i am no longer using ai in my projects
 
-and ive published some of my old website projects
+  - and ive published some of my old website projects
 
 ---
 
@@ -190,4 +189,6 @@ and ive published some of my old website projects
 
   - today i finally set up the software ive deleted the android and booted to the postmarket os
 
+  - also today lve decided to take YouTube seriously i will be uploading 1 video per 3days - 1week 
 
+        # https://youtube.com/@nisarahmedh?si=1rngaMfdDahOAcIW
