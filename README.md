@@ -182,15 +182,3 @@ and ive published some of my old website projects
 ### 2026/02/9
 today i studied SAT and decided to start youtube
 
-## The Point of This Repo
-
-This isn't meant to be a perfectly organized development log.
-
-It's just a place to keep track of:
-
-* Projects I worked on
-* Things I learned
-* Things I'm studying
-* Things I'm experimenting with
-
-Maybe someday I'll look back at these entries and wonder how I survived my Arduino phase.For now, I'm just keeping the receipts.
