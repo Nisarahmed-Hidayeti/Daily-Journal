@@ -19,7 +19,7 @@ It was an Arduino. Now it isn't.
 
 ### 2026/14/8 — BT Car & The 9V Battery Incident
 
-  - I was trying to fix my **BT Car**, even though it wasn't actually broken.
+  - I was trying to fix my **BT Car**, even though it wasn't actually broken. 
 
 The main problem was that it was absolutely **destroying my 9V batteries**, and I only had two left.
 
@@ -191,4 +191,4 @@ today was a good day
 
   - also today lve decided to take YouTube seriously i will be uploading 1 video per 3days - 1week 
 
-        # https://youtube.com/@nisarahmedh?si=1rngaMfdDahOAcIW
+        !! https://youtube.com/@nisarahmedh?si=1rngaMfdDahOAcIW
