@@ -179,6 +179,15 @@ Today i made my personal Website by myself it took a Little long cz i am no long
 
 and ive published some of my old website projects
 
+---
+
 ### 2026/02/9
-today i studied SAT and decided to start youtube
+  - today i studied SAT and decided to start youtube
+
+---
+
+### 2026/03/9 - cyberdeck update & youtube
+
+  - today i finally set up the software ive deleted the android and booted to the postmarket os
+
 
