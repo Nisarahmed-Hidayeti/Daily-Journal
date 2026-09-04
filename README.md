@@ -195,8 +195,12 @@ today was a good day
 
 ---
 
+### 2026/03/9 
 
+  - today was kind of a break day i hang out with my friends
 
+  - also i researched about YouTube algorithm 
+  -got some ideas 
 
 
 
