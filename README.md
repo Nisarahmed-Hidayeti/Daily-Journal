@@ -195,12 +195,22 @@ today was a good day
 
 ---
 
-### 2026/03/9 
+### 2026/04/9 
 
   - today was kind of a break day i hang out with my friends
 
   - also i researched about YouTube algorithm 
   -got some ideas 
+
+### 2026/05/9
+
+  - today i  decited to take my dreams even more serius bcz i am being lazy and if i keep going like this i wont be studying abroad this is my lasy year of high school this is hit or miss
+  - i searched for universtied i wanna go
+  - i started to read sharlock holmes and it is a good one i guess i am reading it in english which is my thirth language that is gonna help me with SAT i guess
+  - i got some youtube idia but i think i will delay that thing for a while
+
+
+
 
 
 
