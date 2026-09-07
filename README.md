@@ -223,10 +223,8 @@ today was a good day
 
   - today i am gonna make the search of uni heavly 
   - then if i have time i will film the youtube + someresearch
-  - 
 
-
-
+---
 
 
 
