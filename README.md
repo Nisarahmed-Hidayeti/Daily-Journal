@@ -213,9 +213,15 @@ today was a good day
 
 ---
 
-### 2026/06/09
+### 2026/06/09 -Break 
 
- -
+ - i am actually so confused i dont know what to do anymore i cant study i cant code like i used to i would build so many things i would but i cant even focus these days something in my head
+
+---
+
+### 2026/07/09
+
+
 
 
 
