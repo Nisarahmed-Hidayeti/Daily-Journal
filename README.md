@@ -234,7 +234,7 @@ today was a good day
   - i am having a tons of headaches
   - also cant even process whats going on with my life
   - i studied SAT
-
+  - i added my youtube channel in my github profile
 ---
 
 
