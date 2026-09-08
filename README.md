@@ -232,7 +232,8 @@ today was a good day
 ### 2026/09/09
 
   - i am having a tons of headaches
-  - also cant even process whats going on with my life 
+  - also cant even process whats going on with my life
+   
 
 
 
