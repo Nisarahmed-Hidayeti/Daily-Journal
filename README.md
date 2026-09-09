@@ -235,8 +235,8 @@ today was a good day
   - also cant even process whats going on with my life
   - i studied SAT
   - i added my youtube channel in my github profile
----
 
+---
 
 
 
