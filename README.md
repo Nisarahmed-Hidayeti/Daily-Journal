@@ -247,7 +247,7 @@ today was a good day
 
 ### 2026/11/09
 
-  - didnt do much unfortunately 
+  - Other than that didnt do much unfortunately 
 
 
 
