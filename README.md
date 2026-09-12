@@ -246,7 +246,8 @@ today was a good day
 
 
 ### 2026/11/09
-
+  
+  - studied which university to go
   - Other than that didnt do much unfortunately 
 
 
