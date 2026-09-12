@@ -250,7 +250,11 @@ today was a good day
   - studied which university to go mostly country mainly
   - Other than that didnt do much unfortunately 
 
+### 2026/12/09
 
+  - I tried zen browser it was a good one i like the style i was already using firefox so since this is firefox based browser that was a smooth experience for me
+
+  - Also I hella studied IELTS 
 
 
 
