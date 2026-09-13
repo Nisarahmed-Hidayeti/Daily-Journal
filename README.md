@@ -257,6 +257,9 @@ today was a good day
   - Also I hella studied IELTS 
 
 
+### 2026/12/09 - Development of peak translate
+
+  - Today was sooo efficient i started an firefox extension called peak translate for now it is bad but gonna be actually peak (ik i cant name things )
 
 
 
