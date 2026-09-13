@@ -261,6 +261,7 @@ today was a good day
 
   - Today was sooo efficient i started an firefox extension called peak translate for now it is bad but gonna be actually peak (ik i cant name things )
 
+  - also tomorrow is the first of the school after a long summer break so i will be focusing more on school 
 
 
 
