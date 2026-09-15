@@ -269,8 +269,10 @@ today was a good day
 
 
 
+### 2026/13/09 
 
-
+  - i am taking SAT way serius now
+  - i tried to make an extension but didn't worked properly so i might use vibe coding
 
 
 
