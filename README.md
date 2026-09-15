@@ -281,8 +281,12 @@ today was a good day
 
   - but vibe coding works better than i thought 
 
+### 2026/15/09
 
+  - Today l actually Studied SOOO GOODDDDD i mean i got this i got a good plan i know what to do
 
+  - and vibe coding works but gives so much error sometimes and since i am using Fcc-claude 
+it is a little bit wierd to code in
 
 
 
