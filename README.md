@@ -275,7 +275,10 @@ today was a good day
   - i tried to make an extension but didn't worked properly so i might use vibe coding
 
 
+### 2026/14/09
 
+  - i think i will be vibe codin a little cz l am preparing for SAT i aint got plenty of time
 
+  - but vibe coding works better than l thought 
 
 
