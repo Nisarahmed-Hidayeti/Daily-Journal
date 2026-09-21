@@ -302,8 +302,11 @@ it is a little bit wierd to code in
 
   - i actually gotta focus and look for the opportunities l dont wanna rely on my dad anymore
 
+### 2026/21/09
 
-
+  - i studied some cyber security 
+  - i watched some videos 
+  - i am gonna search for universities tomorrow 
 
 
 
