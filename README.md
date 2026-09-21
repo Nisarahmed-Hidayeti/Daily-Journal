@@ -290,6 +290,11 @@ it is a little bit wierd to code in
 
 
 
+### 2026/16/09 a lil lost
+
+### 2026/17/09 idk what i am doing
+
+### 2026/15/09 i am actually so stressed 
 
 
 
