@@ -296,7 +296,6 @@ it is a little bit wierd to code in
 
 ### 2026/18/09 i am actually so stressed 
 
-
 ### 2026/19/09 will i ever make my dream come true?
 
 
