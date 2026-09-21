@@ -298,9 +298,9 @@ it is a little bit wierd to code in
 
 ### 2026/19/09 will i ever make my dream come true?
 
+### 2026/20/09
 
-
-
+  - i actually gotta focus and look for the opportunities l dont wanna rely on my dad anymore
 
 
 
