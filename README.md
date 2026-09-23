@@ -308,8 +308,9 @@ it is a little bit wierd to code in
   - i watched some videos 
   - i am gonna search for universities tomorrow 
 
-
-
+### 2026/22/09
+  - dentist appointment 
+  - I decided to apply for hacatons
 
 
 
