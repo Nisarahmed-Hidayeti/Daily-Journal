@@ -313,9 +313,9 @@ it is a little bit wierd to code in
   - I decided to apply for hacatons
 
 
+### 2026/23/09
 
-
-
+  - i ve decided to apply to thşs one https://dorahacks.io
 
 
 
