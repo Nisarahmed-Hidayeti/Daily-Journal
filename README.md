@@ -317,5 +317,8 @@ it is a little bit wierd to code in
 
   - i ve decided to apply to thşs one https://dorahacks.io
 
+  - studied math
+
+
 
 
