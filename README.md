@@ -320,5 +320,9 @@ it is a little bit wierd to code in
   - studied math
 
 
-
+### 2026/24/09
+  
+  - studied TYT turkish sat 
+  - then a little bit of english
+  - thats is it it was kinda break day
 
