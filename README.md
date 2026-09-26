@@ -316,17 +316,15 @@ it is a little bit wierd to code in
 ### 2026/23/09
 
   - i ve decided to apply to thşs one https://dorahacks.io
-
   - studied math
 
 
 ### 2026/24/09
-  
   - studied TYT turkish sat 
   - then a little bit of english
   - thats is it it was kinda break day
-  - 
+    
 ### 2026/25/09
-  break
+   - break
 ### 2026/26/09
-  studyin
+   - studyin
