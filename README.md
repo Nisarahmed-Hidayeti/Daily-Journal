@@ -326,5 +326,7 @@ it is a little bit wierd to code in
   - then a little bit of english
   - thats is it it was kinda break day
   - 
-### 2026/24/09
-  
+### 2026/25/09
+  break
+### 2026/26/09
+  studyin
