@@ -349,7 +349,7 @@ it is a little bit wierd to code in
 ### 2026/30/09
 
   - i went gym and hit back was actually great
-  - 
+  - i will fix all things from tomorrow Inshallah
 
 
 
