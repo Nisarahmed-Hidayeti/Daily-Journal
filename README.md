@@ -325,10 +325,12 @@ it is a little bit wierd to code in
   - thats is it it was kinda break day
     
 ### 2026/25/09
-   - break
-### 2026/26/09
-   - studyin
 
+   - break
+
+### 2026/26/09
+
+   - studyin
 
 ### 2026/27/09
 
