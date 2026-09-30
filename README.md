@@ -328,3 +328,13 @@ it is a little bit wierd to code in
    - break
 ### 2026/26/09
    - studyin
+
+
+### 2026/27/09
+
+  - dunno what i am doin
+  - started gym again after like one month
+
+### 2026/28/09
+
+  - 
