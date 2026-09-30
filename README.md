@@ -344,6 +344,14 @@ it is a little bit wierd to code in
 
 ### 2026/29/09 
 
+  - just got lazy l will fix it this week
+
+
+
+
+
+
+
 
 
 
