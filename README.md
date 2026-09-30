@@ -338,4 +338,5 @@ it is a little bit wierd to code in
 ### 2026/28/09
 
   - played Spidey 
+  - and had a yks tyt test wasnt bad
 
