@@ -344,7 +344,12 @@ it is a little bit wierd to code in
 
 ### 2026/29/09 
 
-  - just got lazy l will fix it this week
+  - just got lazy i will fix it this week
+
+### 2026/30/09
+
+  - i went gym and hit back was actually great
+  - 
 
 
 
