@@ -355,9 +355,9 @@ it is a little bit wierd to code in
 
   - studied well will make a better plan today
 
+### 2026/02/10
 
-
-
+  - SAT and GYM
 
 
 
