@@ -359,7 +359,9 @@ it is a little bit wierd to code in
 
   - SAT and GYM
 
+### 2026/01/10
 
+  - really dizzy these days
 
 
 
