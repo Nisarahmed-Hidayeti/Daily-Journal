@@ -359,12 +359,13 @@ it is a little bit wierd to code in
 
   - SAT and GYM
 
-### 2026/01/10
+### 2026/03/10
 
   - really dizzy these days
 
+### 2026/04/10
 
-
+  - Gym + some studying
 
 
 
