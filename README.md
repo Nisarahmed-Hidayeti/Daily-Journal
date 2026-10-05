@@ -367,6 +367,13 @@ it is a little bit wierd to code in
 
   - Gym + some studying
 
+### 2026/04/10
+   
+  - today l copied my ssd to my other sdd to carry my pc
+
+  - hit some gym 
+
+  made a plan to come back github*
 
 
 
