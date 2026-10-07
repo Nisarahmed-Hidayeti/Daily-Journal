@@ -391,7 +391,8 @@ it is a little bit wierd to code in
   - scared as hell
   - i am actully ahead of my ages but actully i ve recorded nothing about my projects or any other things i feel same as them it is wierd
   - anyways i hit gym today
-
+  - and my gym membership ends this friday my dad wont let me go untill summeri guess bcz of the weather
+  - 
 
 
 
