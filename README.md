@@ -386,7 +386,12 @@ it is a little bit wierd to code in
   - scared of to be late things like applications and some oppurtitions
   - idk what am i even wasting my time on i will figure it out today
 
+  
+### 2026/06/10
 
+  - feeling like a faliure these days
+  - scared of to be late things like applications and some oppurtitions
+  - idk what am i even wasting my time on i will figure it out today
 
 
 
