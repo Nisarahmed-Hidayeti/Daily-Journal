@@ -388,9 +388,9 @@ it is a little bit wierd to code in
 
 ### 2026/07/10
 
-  - feeling like a faliure these days
-  - scared of to be late things like applications and some oppurtitions
-  - idk what am i even wasting my time on i will figure it out today
+  - scared as hell
+  - i am actully ahead of my ages but actully i ve recorded nothing about my projects or any other things i feel same as them it is wierd
+  - anyways i hit gym today
 
 
 
