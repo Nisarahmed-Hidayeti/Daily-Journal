@@ -392,7 +392,31 @@ it is a little bit wierd to code in
   - i am actully ahead of my ages but actully i ve recorded nothing about my projects or any other things i feel same as them it is wierd
   - anyways i hit gym today
   - and my gym membership ends this friday my dad wont let me go untill summeri guess bcz of the weather
-  - it is gonna be almost one month from now and i dont think i changed the way i want everything is still coming and it gets only worse my SAT in nov 7 and YKS is getting closer my phone broke so is my watch idk man oh i am scared and tired 
+  - it is gonna be almost one month from now and i dont think i changed the way i want everything is still coming and it gets only worse my SAT in nov 7 and YKS is getting closer my phone broke so is my watch idk man oh i am scared and tired
+
+  - AND youtube oh i am a faliure i posted my first video in like april and i planned to post atleast one video per week but guess what I NEVER DID ah i hate it i hate\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
