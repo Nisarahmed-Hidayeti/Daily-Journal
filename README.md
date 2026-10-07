@@ -375,8 +375,16 @@ it is a little bit wierd to code in
 
   made a plan to come back github*
 
+### 2026/05/10
 
+  - hit gym
+  - still so foggy in my head
+  
+### 2026/06/10
 
+  - feeling like a faliure these days
+  - scared of to be late things like applications and some oppurtitions
+  - idk what am i even wasting my time on i will figure it out today
 
 
 
