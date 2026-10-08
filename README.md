@@ -406,11 +406,12 @@ it is a little bit wierd to code in
 
 ---
 
-### 2026/07/10
+### 2026/08/10
 
   - have done some studying and coding stuff
+  - played last of us
 
-
+### 2026/09/10
 
 
 
