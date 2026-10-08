@@ -411,6 +411,8 @@ it is a little bit wierd to code in
   - have done some studying and coding stuff
   - played last of us
 
+---
+
 ### 2026/09/10
 
 
