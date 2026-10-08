@@ -367,6 +367,8 @@ it is a little bit wierd to code in
 
   - Gym + some studying
 
+---
+
 ### 2026/04/10
    
   - today l copied my ssd to my other sdd to carry my pc
@@ -375,16 +377,22 @@ it is a little bit wierd to code in
 
   made a plan to come back github*
 
+---
+
 ### 2026/05/10
 
   - hit gym
   - still so foggy in my head
+
+---
   
 ### 2026/06/10
 
   - feeling like a faliure these days
   - scared of to be late things like applications and some oppurtitions
   - idk what am i even wasting my time on i will figure it out today
+
+---
 
 ### 2026/07/10
 
@@ -396,7 +404,7 @@ it is a little bit wierd to code in
 
   - AND youtube oh i am a faliure i posted my first video in like april and i planned to post atleast one video per week but guess what I NEVER DID ah i hate it i hate\
 
-
+---
 
 ### 2026/07/10
 
