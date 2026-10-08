@@ -398,7 +398,9 @@ it is a little bit wierd to code in
 
 
 
+### 2026/07/10
 
+  - have done some studying and coding stuff
 
 
 
