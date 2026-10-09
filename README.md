@@ -250,12 +250,15 @@ today was a good day
   - studied which university to go mostly country mainly
   - Other than that didnt do much unfortunately 
 
+---
+
 ### 2026/12/09
 
   - I tried zen browser it was a good one i like the style i was already using firefox so since this is firefox based browser that was a smooth experience for me
 
   - Also I hella studied IELTS 
 
+---
 
 ### 2026/12/09 - Development of peak translate
 
@@ -267,19 +270,22 @@ today was a good day
 
   - i think l will take a look a the youtube tomorrow 
 
-
+---
 
 ### 2026/13/09 
 
   - i am taking SAT way serius now
   - i tried to make an extension but didn't worked properly so i might use vibe coding
 
+---
 
 ### 2026/14/09
 
   - i think i will be vibe codin a little cz l am preparing for SAT i aint got plenty of time
 
-  - but vibe coding works better than i thought 
+  - but vibe coding works better than i thought
+
+---
 
 ### 2026/15/09
 
@@ -289,7 +295,7 @@ today was a good day
 it is a little bit wierd to code in
 
 
-
+---
 ### 2026/16/09 a lil lost
 
 ### 2026/17/09 idk what i am doing
@@ -298,9 +304,13 @@ it is a little bit wierd to code in
 
 ### 2026/19/09 will i ever make my dream come true?
 
+---
+
 ### 2026/20/09
 
   - i actually gotta focus and look for the opportunities l dont wanna rely on my dad anymore
+
+---
 
 ### 2026/21/09
 
@@ -308,60 +318,84 @@ it is a little bit wierd to code in
   - i watched some videos 
   - i am gonna search for universities tomorrow 
 
+---
+
 ### 2026/22/09
   - dentist appointment 
   - I decided to apply for hacatons
 
+---
 
 ### 2026/23/09
 
   - i ve decided to apply to thşs one https://dorahacks.io
   - studied math
 
+---
 
 ### 2026/24/09
   - studied TYT turkish sat 
   - then a little bit of english
   - thats is it it was kinda break day
     
+---
+
 ### 2026/25/09
 
    - break
 
+---
+
 ### 2026/26/09
 
    - studyin
+
+---
 
 ### 2026/27/09
 
   - dunno what i am doin
   - started gym again after like one month
 
+---
+
 ### 2026/28/09
 
   - played Spidey 
   - and had a yks tyt test wasnt bad
 
+---
+
 ### 2026/29/09 
 
   - just got lazy i will fix it this week
+
+---
 
 ### 2026/30/09
 
   - i went gym and hit back was actually great
   - i will fix all things from tomorrow Inshallah
 
+---
+
 ### 2026/01/10
 
   - studied well will make a better plan today
+
+---
 
 ### 2026/02/10
 
   - SAT and GYM
 
+---
+
 ### 2026/03/10
 
   - really dizzy these days
+
+---
 
 ### 2026/04/10
 
