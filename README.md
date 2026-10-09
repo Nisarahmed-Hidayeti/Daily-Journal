@@ -415,7 +415,7 @@ it is a little bit wierd to code in
 
 ### 2026/09/10
 
-
+  - today was actually pretty productive i ve made the website "https://hidayeti-princ.netlify.app/en/index.html"
 
 
 
