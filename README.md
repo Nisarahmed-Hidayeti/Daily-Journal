@@ -417,6 +417,9 @@ it is a little bit wierd to code in
 
   - today was actually pretty productive i ve made the website "https://hidayeti-princ.netlify.app/en/index.html"
 
+  - also i went gym 
+
+---
 
 
 
