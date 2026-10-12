@@ -1,4 +1,4 @@
- # 📓 Journal
+# 📓 Journal
 
 A small collection of things I build, break, learn, and occasionally regret.
 
