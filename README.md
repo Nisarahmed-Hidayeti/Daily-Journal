@@ -468,10 +468,15 @@ it is a little bit wierd to code in
 
 ---
 
-### 2026/09/10
+### 2026/12/10
 
+  - was a lil waste today l need to figure it out where is my time goin
 
-### 2026/09/10
+  - i did  homegym today
+
+  - i also do some research about the website l am building
+
+---
 
 
 
