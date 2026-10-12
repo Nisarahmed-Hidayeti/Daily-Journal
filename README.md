@@ -457,11 +457,16 @@ it is a little bit wierd to code in
 
 ### 2026/10/10
 
-  - i went hb party
+  - i went bd party
 
 ---
 
-### 2026/09/10
+### 2026/11/10
+
+  - was the las day of my gym
+  - also i redesign the hidayeti website
+
+---
 
 ### 2026/09/10
 
