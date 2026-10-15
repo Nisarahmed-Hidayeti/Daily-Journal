@@ -479,22 +479,21 @@ it is a little bit wierd to code in
 ---
 
 ### 2026/12/10
-
-
-
+  - idk
 ---
 
 ### 2026/12/10
-
+  - updayed the hidayeti princ
+  - gym
 
 ---
 
 
 ### 2026/12/10
-   today i updated my website
-
-
-
+  - today i updated my website
+  - also i updated my youtube channel
+  - i studied some coding
+    
 ---
 
 
