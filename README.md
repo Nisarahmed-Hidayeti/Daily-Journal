@@ -464,41 +464,48 @@ it is a little bit wierd to code in
 ### 2026/11/10
 
   - was the las day of my gym
-  - also i redesign the hidayeti website
+  - also i redesign the hidayeti website https://nisarahmedhidayeti.netlify.app/
 
 ---
 
 ### 2026/12/10
 
   - was a lil waste today l need to figure it out where is my time goin
-
   - i did  homegym today
-
   - i also do some research about the website l am building
 
 ---
 
-### 2026/12/10
+### 2026/13/10
   - idkwhats goin on
 
 ---
 
-### 2026/12/10
+### 2026/14/10
   - updayed the hidayeti princ
   - gym
 
 ---
 
-### 2026/12/10
+### 2026/15/10
   - today i updated my website
   - also i updated my youtube channel
   - i studied some coding
     
 ---
 
+### 2026/16/10
+  - played last of us part one
+  - i debloated my pc i will clone my pcs ssd to my laptop so i will be using the same ps in everywhere meybe i can even sync but i wanna keep as back up tho
+
+--- 
 
 
+### 2026/17/10
+  - Both my parents called me a failure; they said we wish we never had you
 
+
+---
 
 
 
@@ -506,6 +513,18 @@ it is a little bit wierd to code in
 
 
   
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
