@@ -479,7 +479,8 @@ it is a little bit wierd to code in
 ---
 
 ### 2026/12/10
-  - idk
+  - idkwhats goin on
+
 ---
 
 ### 2026/12/10
@@ -487,7 +488,6 @@ it is a little bit wierd to code in
   - gym
 
 ---
-
 
 ### 2026/12/10
   - today i updated my website
