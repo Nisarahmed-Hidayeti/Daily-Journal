@@ -504,12 +504,10 @@ it is a little bit wierd to code in
 ### 2026/17/10
   - Both my parents called me a failure; they said we wish we never had you
 
-
 ---
 
-
-
-
+### 2026/18/10
+  - i reseted my windows i reinstall it clean it is not my main drive cachy os but i sometimes play minecraft dungens and spiderman so it stays as my gaming drive 
 
 
   
