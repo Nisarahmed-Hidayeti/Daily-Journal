@@ -509,6 +509,7 @@ it is a little bit wierd to code in
 ### 2026/18/10
   - i reseted my windows i reinstall it clean it is not my main drive cachy os but i sometimes play minecraft dungens and spiderman so it stays as my gaming drive
   - i studied some math and chemiostery
+  - i homegymed
   
 
 
