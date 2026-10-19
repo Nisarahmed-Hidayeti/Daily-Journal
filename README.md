@@ -511,7 +511,10 @@ it is a little bit wierd to code in
   - i studied some math and chemiostery
   - i homegymed
   
+### 2026/18/10 
 
+   - played spiderman 2 allday
+   - fuh
 
 
 
