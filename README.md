@@ -519,7 +519,9 @@ it is a little bit wierd to code in
 
   - was good for the first time l am actually studying with some plan
 
-
+### 2026/21/10 
+  
+   - wasnt bad i studied some math
 
 
 
