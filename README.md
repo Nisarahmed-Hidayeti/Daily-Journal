@@ -522,6 +522,7 @@ it is a little bit wierd to code in
 ### 2026/21/10 
   
    - wasnt bad i studied some math
+  - AND I ALMOST HİT 1000 ELO İN CHESS
 
 
 
