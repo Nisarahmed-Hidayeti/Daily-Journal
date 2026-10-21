@@ -511,11 +511,13 @@ it is a little bit wierd to code in
   - i studied some math and chemiostery
   - i homegymed
   
-### 2026/18/10 
+### 2026/19/10 
 
    - played spiderman 2 allday
 
+### 2026/20/10 
 
+  - was good for the first time l am actually studying with some plan
 
 
 
