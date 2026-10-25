@@ -525,6 +525,9 @@ it is a little bit wierd to code in
   - AND I ALMOST HİT 1000 ELO İN CHESS
 
 ### 2026/22/10 
+  - idk what did i do...
+
+### 2026/22/10 
 
 
 
