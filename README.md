@@ -529,7 +529,8 @@ it is a little bit wierd to code in
 
 ### 2026/23/10 
 
-  - i got my laptopppp
+  - i finnally got my laptopppp dell 7340 litiral peak
+
 
 
 
