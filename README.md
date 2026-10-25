@@ -529,6 +529,7 @@ it is a little bit wierd to code in
 
 ### 2026/23/10 
 
+  - i got my laptopppp
 
 
 
