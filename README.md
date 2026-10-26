@@ -542,8 +542,16 @@ it is a little bit wierd to code in
 ### 2026/24/10 
   - i copied my desktop ssd here
   - and sett up everything
-    
 
+---
+    
+### 2026/25/10 
+  - was a lil burned up i studied
+
+---
+
+### 2026/26 /10 
+   - Today instead of studying decided to maek a website called studyplan
 
 
 
