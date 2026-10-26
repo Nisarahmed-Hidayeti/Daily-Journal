@@ -510,7 +510,9 @@ it is a little bit wierd to code in
   - i reseted my windows i reinstall it clean it is not my main drive cachy os but i sometimes play minecraft dungens and spiderman so it stays as my gaming drive
   - i studied some math and chemiostery
   - i homegymed
-  
+
+---
+
 ### 2026/19/10 
    - played spiderman 2 allday
 
@@ -536,7 +538,48 @@ it is a little bit wierd to code in
   - i finnally got my laptopppp dell 7340 litiral peak
 
 ---
- 
+
+### 2026/24/10 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
