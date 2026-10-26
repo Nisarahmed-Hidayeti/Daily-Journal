@@ -552,6 +552,8 @@ it is a little bit wierd to code in
 
 ### 2026/26 /10 
    - Today instead of studying decided to maek a website called studyplan
+   - https://github.com/Nisarahmed-Hidayeti/Study-plan
+   - and this is the website 
 
 
 
