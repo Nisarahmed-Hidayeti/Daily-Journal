@@ -512,26 +512,27 @@ it is a little bit wierd to code in
   - i homegymed
   
 ### 2026/19/10 
-
    - played spiderman 2 allday
+
+---
 
 ### 2026/20/10 
 
   - was good for the first time l am actually studying with some plan
 
 ### 2026/21/10 
-  
    - wasnt bad i studied some math
   - AND I ALMOST HİT 1000 ELO İN CHESS
 
 ### 2026/22/10 
   - idk what did i do...
 
+
 ### 2026/23/10 
-
   - i finnally got my laptopppp dell 7340 litiral peak
+  - 
 
-
+  
 
 
 
