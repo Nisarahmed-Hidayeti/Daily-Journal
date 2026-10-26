@@ -540,6 +540,9 @@ it is a little bit wierd to code in
 ---
 
 ### 2026/24/10 
+  - i copied my desktop ssd here
+  - and sett up everything
+    
 
 
 
