@@ -555,7 +555,9 @@ it is a little bit wierd to code in
    - https://github.com/Nisarahmed-Hidayeti/Study-plan
    - and this is the website 
 
-
+### 2026/27/10 
+  - today i wanna start building my dream ai Phonix assistant
+  - and i will make a website called daily journal when i finish i will be journilying there instand
 
 
 
