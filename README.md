@@ -1,3 +1,6 @@
+# ! Attention ! i will be writing in my own website ! https://deardailyy.netlify.app/
+
+
 # 📓 Journal
 
 A small collection of things I build, break, learn, and occasionally regret.
