@@ -1,4 +1,6 @@
-# ! Attention ! i will be writing in my own website ! https://deardailyy.netlify.app/
+# ! Attention ! i will be writing in my own website ! 
+
+https://deardailyy.netlify.app/
 
 
 # 📓 Journal
