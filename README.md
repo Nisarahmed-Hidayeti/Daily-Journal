@@ -556,7 +556,7 @@ it is a little bit wierd to code in
    - and this is the website 
 
 ### 2026/27/10 
-  - today i wanna start building my dream ai Phonix assistant
+  - today i wanna start building my dream ai Phonix assistant https://github.com/Nisarahmed-Hidayeti/Phoenix-Assistant
   - and i will make a website called daily journal when i finish i will be journilying there instand https://github.com/Nisarahmed-Hidayeti/everyday-journal
 
 
