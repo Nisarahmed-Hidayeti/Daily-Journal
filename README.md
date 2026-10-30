@@ -1,4 +1,4 @@
-# ! Attention ! i will be writing in my own website ! 
+# ! i will be writing in my own website 
 
 https://deardailyy.netlify.app/
 
